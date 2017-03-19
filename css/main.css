@@ -1,0 +1,39 @@
+html {
+	background: url('../img/stars.jpg');
+}
+
+body {
+	text-align: center;
+	color: #a6a6a6;
+	font-size: 30px;
+	heigt: 200px;
+}
+
+
+.form-group {
+  
+}
+
+.enter {
+	  animation: bounce 2s;
+	  color: #a6a6a6;
+	  font-family: 'Yellowtail', cursive;
+	  margin-top: 3%;
+	  font-size: 80px;
+}
+
+.button {
+	padding: 5px 10px;
+	margin-top: 25px;
+	border-radius: 8px;
+	background-color: transparent;
+	color: #a6a6a6;
+	font-size: 30px;
+	font-family: 'Yellowtail', cursive;
+	}
+
+.form-control {
+	border-radius: 8px;
+	width: 30%;
+	height: 30px;
+}
